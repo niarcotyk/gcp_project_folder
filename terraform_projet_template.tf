@@ -5,7 +5,7 @@
 	impersonate_members = "group:dodo-squad@akeneo.com"
 	admin_members       = "group:dodo-squad@akeneo.com"
 	folder_id           = "823637986681"
-	folder_name			= "example-proj"
+	folder_name         = "example-proj"
   }
 
   module "project" {
